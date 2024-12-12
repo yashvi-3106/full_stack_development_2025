@@ -9,15 +9,17 @@ import Ref from "./hooks/UseRef/Ref";
 import Context from "./hooks/UseContext/Contect";
 import Memo from "./hooks/useMemo/Memo";
 import CallBack from "./hooks/UseCallback/Callback";
+// import Neel, {CounterFunctional,One, Two, Three } from './components/Functional'
 
 function Test() {
   return (
     <>
-      {/* <CounterFunctional /> */}
-      <CounterClass />
-      {/* <State />
-      <Effect />
-      <Reducer />
+      {/* <One/> */}
+      <CounterFunctional />
+      {/* <CounterClass />
+      <State /> */}
+      {/* <Effect /> */}
+      {/* <Reducer />
       <LayoutEffect />
       <Ref />
       <Context />
