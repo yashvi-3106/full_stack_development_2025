@@ -1,6 +1,6 @@
 const express = require('express');
 const { MongoClient } = require('mongodb');
-
+const cors = require('cors');
 const app = express();
 const port = 3000;
 
@@ -10,7 +10,7 @@ const dbName = "codinggita";
 
 // Middleware
 app.use(express.json());
-
+app.use(cors());
 let db, students;
 
 // Connect to MongoDB and initialize collections
