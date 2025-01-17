@@ -1,5 +1,7 @@
 # Project Name : FocusFuze – Fusing personal and team focus into one streamlined task manager.
 
+## Figma Design Link : https://www.figma.com/design/3IMO60zfBer1J8ZciEVyI4/Untitled?node-id=0-1&t=QCnFH2QI1S7nxRkr-1
+
 ## Problem Statement:
 - Managing tasks for personal goals and team projects is often chaotic, leading to missed deadlines, unclear accountability, and a lack of motivation. Individuals struggle to track their personal progress while balancing the complexity of coordinating tasks within a team.
 - There is a need for a unified platform that allows individuals to set personal goals, manage tasks, collaborate with teams, assign responsibilities, and track progress, all while offering rewards to encourage sustained productivity.
