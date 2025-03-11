@@ -31,7 +31,6 @@ Modify `index.js` or `main.jsx` to connect Redux.
 
 ## **Step 5: Create Four Components**
 
-Now,create the components that will **fetch and share user data**.
 ✅ `UserList`: **This component calls the API and stores data in Redux.**  
 ✅ `UserTable`: **This component reads and displays user data stored in Redux.**  
 ✅ `UserCount`: **This component uses Redux state to count users.**  
